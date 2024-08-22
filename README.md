@@ -10,7 +10,7 @@ I have a deep appreciation for the open web platform and enjoy creating apps tha
 - Web Components
 - React and Next.js
 
-I work as freelancer. Find out more about me on [my website](https://claes.tech):
+I work as freelancer. Find out more about me on [my website](https://claes.tech).
 
 <!--
 **alexclaes/alexclaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
